@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "description": "This is a great stream! :D",
+      "title": "My Stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Another Awesome stream! :D",
+      "id": 2
+    },
+    {
+      "title": "New Stream",
+      "description": "Newest Streaaaaaaaaaaaaaaam!",
+      "userId": "101851172733683751235",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Handling Router history manually!!!",
+      "userId": "101851172733683751235",
+      "id": 4
+    }
+  ]
+}
